@@ -1,0 +1,14 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\obj\Debug\net8.0\Facultative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\obj\Debug\net8.0\Facultative.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\obj\Debug\net8.0\Facultative.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\obj\Debug\net8.0\Facultative.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\bin\Debug\net8.0\Facultative.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\bin\Debug\net8.0\Facultative.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\bin\Debug\net8.0\Facultative.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\bin\Debug\net8.0\Facultative.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\bin\Debug\net8.0\Facultative.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\obj\Debug\net8.0\Facultative.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\obj\Debug\net8.0\refint\Facultative.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\obj\Debug\net8.0\Facultative.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\obj\Debug\net8.0\Facultative.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\Facultative\obj\Debug\net8.0\ref\Facultative.dll
