@@ -1,0 +1,15 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\Task003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\Task003.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\Task003.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\Task003.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\Task003.sourcelink.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\bin\Debug\net8.0\Task003.exe
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\bin\Debug\net8.0\Task003.deps.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\bin\Debug\net8.0\Task003.runtimeconfig.json
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\bin\Debug\net8.0\Task003.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\bin\Debug\net8.0\Task003.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\Task003.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\refint\Task003.dll
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\Task003.pdb
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\Task003.genruntimeconfig.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar02\Task003\obj\Debug\net8.0\ref\Task003.dll
