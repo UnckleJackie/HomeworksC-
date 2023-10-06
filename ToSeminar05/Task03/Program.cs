@@ -3,23 +3,16 @@
 //элементов массива.
 //[3 7 22 2 78] -> 76 random.next.Double
 
-double x = new Random().Next(0, 256);
-System.Console.WriteLine(x);
-double y = Math.Round(new Random().NextDouble(), 2);
-System.Console.WriteLine(y);
-double z = (new Random().Next(0, 256) +Math.Round(new Random().NextDouble(), 2));
-System.Console.WriteLine(z);
-
-void FillArray(double[] collection)
+double[] CreateArray()
 {
-    int length = collection.Length;
-    int index = 0;
-    while (index < length)
+    int size = 5;
+    double[] array = new double[size];
+    
+    for (int i = 0; i < size; i++)
     {
-        collection[index] = (new Random().Next(0, 256) +Math.Round(new Random().NextDouble(), 2));
-System.Console.WriteLine(z); //наполняем массив случайными числами
-        index++;
+        array[i] = Math.Round(new Random().Next(0, 255) + new Random().NextDouble(), 2);
     }
+    return array;
 }
 
 void PrintArray(double[] array)
@@ -28,10 +21,70 @@ void PrintArray(double[] array)
     {
         System.Console.Write( array[i] + " ");
     }
+    System.Console.WriteLine();
 }
 
-double[] array = new double[10];
-PrintArray(array);
+double[] myArray = CreateArray();
+PrintArray(myArray);
+
+double FindMax(double[] array)
+{
+    double max = array[0];
+    int i = 0;
+    for (i = 0; i < array.Length; i++)
+    {
+        if (array[i] > max) max = array[i];
+    }
+    return max;
+}
+
+double FindMin(double[] array)
+{
+    double min = array[0];
+    int i = 0;
+    for (i = 0; i < array.Length; i++)
+    {
+        if (array[i] < min) min = array[i];
+    }
+    return min;
+}
+
+double max = FindMax(myArray);
+double min = FindMin(myArray);
+double diff = Math.Round((max - min), 2);
+System.Console.WriteLine($"Разница между максимумом {max} и минимальным {min} составляет {diff}");
+
+// double DiffMaxMin(double[] array)
+// {
+//     // Сначала будем искать максимум
+//     double max = array[0];
+//     double min = array[0];
+    
+//     int i = 0;
+//     for (i = 0; i < array.Length; i++)
+//     {
+//         if (array[i] > max) max = array[i];
+//     }
+
+//     // Теперь поищем минимум
+    
+//     for (i = 0; i < array.Length; i++)
+//     {
+//         if (array[i] < min) min = array[i];
+//     }
+//     double diff = max - min;
+//     return diff;
+// }
+
+
+
+// int size = Prompt("Input array size: ");
+// int min = Prompt("Input min value: ");
+// int max = Prompt("Input max value: ");
+// int[] myArray = CreateRandomArray(size, min, max);
+// PrintArray(myArray);
+// double diff = DiffMaxMin(myArray);
+// System.Console.WriteLine(diff);
 
 
 
