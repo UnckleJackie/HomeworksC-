@@ -1,0 +1,5 @@
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar07\Task003\obj\Debug\net8.0\Task003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar07\Task003\obj\Debug\net8.0\Task003.AssemblyInfoInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar07\Task003\obj\Debug\net8.0\Task003.AssemblyInfo.cs
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar07\Task003\obj\Debug\net8.0\Task003.csproj.CoreCompileInputs.cache
+C:\Users\anech\Desktop\Meeting_Languages\C#\Homeworks\ToSeminar07\Task003\obj\Debug\net8.0\Task003.sourcelink.json
