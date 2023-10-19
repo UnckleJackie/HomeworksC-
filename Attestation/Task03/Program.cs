@@ -23,8 +23,8 @@ int AkkermanRec(int m, int n)
         return AkkermanRec(m - 1, AkkermanRec(m, n - 1));
     }
 }
-
-int m = Prompt("Введите m: ");
-int n = Prompt("Введите n: ");
+System.Console.WriteLine("Данная программа вычислит функцию Аккермана с помощью Рекурсии!");
+int m = Prompt("Введи m: ");
+int n = Prompt("Введи n: ");
 int akkermanRec = AkkermanRec(m, n);
 System.Console.WriteLine($"Функция Аккермана при {m} и {n} равна {akkermanRec}");

@@ -16,8 +16,8 @@ int SumRec(int M, int N)
     if (M == N) return N;
     else return M + SumRec(M + 1, N);
 }
-
-int M = Prompt("Введите M: ");
-int N = Prompt("Введите N: ");
+System.Console.WriteLine("Данная утилитка выведет сумму натуральных чисел между двумя любыми, которые ты загадаешь, братка!");
+int M = Prompt("Введи M: ");
+int N = Prompt("Введи N: ");
 int sumRec = SumRec(M, N);
 System.Console.WriteLine($"Сумма чисел от {M} до {N} составляет {sumRec}");

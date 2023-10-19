@@ -12,15 +12,15 @@ int Prompt(string message)
     return result; 
 }
 
-string ShowNumbers(int N)
+string ShowNumbersRec(int N)
 {
     if (N >= 1)
     {
-        return $"{N}, " + ShowNumbers(N - 1);
+        return $"{N}, " + ShowNumbersRec(N - 1);
     }
     else return string.Empty;
 }
-
-int N = Prompt("Введите число N:");
-string NTo1 = ShowNumbers(N);
+System.Console.WriteLine("Программа будет выводить все натуральные числа от заявленного до 1. И делать все это будем через ее величество, Рекурсию!");
+int N = Prompt("Введите число N: ");
+string NTo1 = ShowNumbersRec(N);
 System.Console.WriteLine(NTo1);
